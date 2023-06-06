@@ -27,7 +27,7 @@ gh repo clone Mythyndian/Wiki-API
 ```
 Change working directory to cloned repository
 ```bash
-cd blog-website
+cd Wiki-API
 ```
 Install dependecies using npm
 ```bash
